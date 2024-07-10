@@ -1,4 +1,4 @@
-package org.example.pontos.transacao;
+package org.example.pontos.transacao.service;
 
 import org.example.pontos.transacao.models.Transacao;
 import org.springframework.beans.factory.annotation.Value;

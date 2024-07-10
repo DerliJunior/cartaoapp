@@ -1,7 +1,7 @@
 package org.example.pontos.cartao.services;
 
 import org.example.pontos.cartao.models.*;
-import org.example.pontos.transacao.TransacaoService;
+import org.example.pontos.transacao.service.TransacaoService;
 import org.example.pontos.transacao.models.Transacao;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
